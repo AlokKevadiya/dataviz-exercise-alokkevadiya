@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="510" viewBox="0 0 1010 510">
+<rect width="100%" height="100%" fill="white"/><style>text{font-family:Arial,sans-serif;fill:#283445} .region{font-size:16px} .val{font-size:13px} .title{font-size:21px;font-weight:700}</style>
+<text class="title" x="26" y="42">Western Europe leads in support and freedom among five regions</text>
+<rect x="267" y="71" width="13" height="13" fill="#2463A6"/><text x="285" y="83" font-size="13">Social support</text>
+<rect x="415" y="71" width="13" height="13" fill="#D69A3B"/><text x="433" y="83" font-size="13">Freedom of choice</text>
+<line x1="255" x2="255" y1="107" y2="430" stroke="#E8EEF4"/><text x="255" y="453" font-size="12" text-anchor="middle">0.0</text>
+<line x1="386" x2="386" y1="107" y2="430" stroke="#E8EEF4"/><text x="386" y="453" font-size="12" text-anchor="middle">0.2</text>
+<line x1="517" x2="517" y1="107" y2="430" stroke="#E8EEF4"/><text x="517" y="453" font-size="12" text-anchor="middle">0.4</text>
+<line x1="648" x2="648" y1="107" y2="430" stroke="#E8EEF4"/><text x="648" y="453" font-size="12" text-anchor="middle">0.6</text>
+<line x1="779" x2="779" y1="107" y2="430" stroke="#E8EEF4"/><text x="779" y="453" font-size="12" text-anchor="middle">0.8</text>
+<line x1="910" x2="910" y1="107" y2="430" stroke="#E8EEF4"/><text x="910" y="453" font-size="12" text-anchor="middle">1.0</text>
+<text x="240" y="146" text-anchor="end" class="region">South Asia</text>
+<rect x="255" y="122" width="367.6" height="20" fill="#2463A6"/>
+<rect x="255" y="146" width="357.8" height="20" fill="#D69A3B"/>
+<text x="629.6" y="137" class="val">0.56</text>
+<text x="619.8" y="161" class="val">0.55</text>
+<text x="240" y="206" text-anchor="end" class="region">Sub-Saharan Africa</text>
+<rect x="255" y="182" width="365.3" height="20" fill="#2463A6"/>
+<rect x="255" y="206" width="392.6" height="20" fill="#D69A3B"/>
+<text x="627.3" y="197" class="val">0.56</text>
+<text x="654.6" y="221" class="val">0.60</text>
+<text x="240" y="266" text-anchor="end" class="region">East Asia</text>
+<rect x="255" y="242" width="558.5" height="20" fill="#2463A6"/>
+<rect x="255" y="266" width="493.9" height="20" fill="#D69A3B"/>
+<text x="820.5" y="257" class="val">0.85</text>
+<text x="755.9" y="281" class="val">0.75</text>
+<text x="240" y="326" text-anchor="end" class="region">Latin America and Caribbean</text>
+<rect x="255" y="302" width="542.8" height="20" fill="#2463A6"/>
+<rect x="255" y="326" width="494.0" height="20" fill="#D69A3B"/>
+<text x="804.8" y="317" class="val">0.83</text>
+<text x="756.0" y="341" class="val">0.75</text>
+<text x="240" y="386" text-anchor="end" class="region">Western Europe</text>
+<rect x="255" y="362" width="610.2" height="20" fill="#2463A6"/>
+<rect x="255" y="386" width="586.9" height="20" fill="#D69A3B"/>
+<text x="872.2" y="377" class="val">0.93</text>
+<text x="848.9" y="401" class="val">0.90</text>
+<text x="582.5" y="489" text-anchor="middle" font-size="15">Average index value (0–1)</text></svg>
