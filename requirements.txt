@@ -1,0 +1,5 @@
+pandas>=2.2,<3
+numpy>=1.26,<3
+plotly==6.5.0
+jupyterlab>=4,<5
+anywidget>=0.9,<1
