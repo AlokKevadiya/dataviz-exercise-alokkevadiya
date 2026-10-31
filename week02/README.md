@@ -20,3 +20,7 @@
 
 [SVG version](outputs/task3_support_and_freedom.svg)
 
+
+## Class material
+
+[Lecture notes](https://github.com/dina-deifallah/data-viz-class-material-w2026/blob/main/week02/lecture02_notes.ipynb) · [Instructor model answer](https://github.com/dina-deifallah/data-viz-class-material-w2026/blob/main/week02/lecture02_model_answer.ipynb)

@@ -14,3 +14,7 @@
 
 [SVG version](outputs/task2_asian_co2_emissions.svg)
 
+
+## Class material
+
+[Lecture notes](https://github.com/dina-deifallah/data-viz-class-material-w2026/blob/main/week03/lecture03_notes.ipynb) · [Instructor model answer](https://github.com/dina-deifallah/data-viz-class-material-w2026/blob/main/week03/lecture03_model_answer.ipynb)
